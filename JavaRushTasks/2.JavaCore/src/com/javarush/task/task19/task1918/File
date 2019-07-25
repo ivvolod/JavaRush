@@ -1,0 +1,3 @@
+(<span.*\s?.*>.*<\/span>)(.*\/span>)(.*span>)
+(<span>.*\s?<\/span>)
+(<span.*\s?.*>(<span>.*\s?<\/span>).*<\/span>)(.*\/span>)(.*span>)
