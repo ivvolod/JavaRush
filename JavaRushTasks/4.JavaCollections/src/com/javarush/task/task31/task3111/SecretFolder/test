@@ -1,0 +1,3 @@
+searchFileVisitor.setPartOfName("amigo")searchFileVisitor.setPartOfContent("programmer");
+searchFileVisitor.setMinSize(500);
+searchFileVisitor.setMaxSize(10000);
