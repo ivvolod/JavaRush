@@ -276,7 +276,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_191" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3108.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3109.Solution" />
       <module name="4.JavaCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -382,20 +382,12 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3108/Solution.java</url>
-          <line>17</line>
-          <properties class="com.javarush.task.task31.task3108.Solution" method="getDiffBetweenTwoPaths">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/Solution.java</url>
+          <line>22</line>
+          <properties class="com.javarush.task.task31.task3109.Solution" method="getProperties">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3108/Solution.java</url>
-          <line>10</line>
-          <properties class="com.javarush.task.task31.task3108.Solution" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="23" />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java</url>
