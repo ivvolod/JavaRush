@@ -52,14 +52,14 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3105\ resourse" />
+      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3113\Test\Test_1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3113" />
       <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3102" />
       <recent name="D:\intellijSandbox\JavaRushTasks" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3105\ resourse" />
-      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3113\Test\Test_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,7 +276,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_191" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3109.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2028.Solution" />
       <module name="4.JavaCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -382,12 +382,12 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/Solution.java</url>
-          <line>22</line>
-          <properties class="com.javarush.task.task31.task3109.Solution" method="getProperties">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java</url>
+          <line>61</line>
+          <properties class="com.javarush.task.task20.task2028.CustomTree" method="add">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java</url>
