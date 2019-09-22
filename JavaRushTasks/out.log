@@ -16768,3 +16768,372 @@ java.lang.NullPointerException
 2019-09-21 10:49:08 INFO  ApacheHttpClient.refreshUserInfo(297) - User information received.
 2019-09-21 10:49:08 INFO  ApacheHttpClient.startGA(35) - GAService started.
 2019-09-21 10:49:08 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2019-09-21 10:49:18 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-09-21 10:50:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:51:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:52:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:53:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:54:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:55:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:56:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:57:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:58:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 10:59:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:00:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:01:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:02:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:03:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:04:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:05:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:06:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:07:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:08:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:09:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:10:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:11:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:12:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:13:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:14:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:15:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:16:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:17:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:18:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:19:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:20:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:21:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:22:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:23:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:24:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:24:50 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-09-21 11:24:51 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-09-21 11:24:51 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-09-21 11:24:52 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-09-21 11:25:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:26:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:27:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:28:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:29:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:30:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:31:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:32:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:33:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:34:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:35:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:36:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:37:11 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:38:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:39:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:40:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:41:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:42:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:43:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:44:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:45:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:46:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:47:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:48:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:49:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:50:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:51:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:52:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:53:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:54:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:55:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:56:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:57:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:58:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 11:59:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:00:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:01:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:02:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:03:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:04:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:05:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:06:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:07:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:08:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:09:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:10:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:11:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:12:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:13:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:14:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:15:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:16:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:17:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:18:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:19:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:20:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:21:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:22:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:23:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:24:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:25:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:26:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:27:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:28:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:29:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:30:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:31:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:32:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:33:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:34:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:35:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:36:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:37:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:38:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:39:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:40:10 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:41:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:42:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:43:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:44:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:45:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:46:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:47:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:48:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:49:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:50:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:51:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:52:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:53:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:54:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:55:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:56:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:57:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:58:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 12:59:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:00:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:01:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:02:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:03:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:04:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:05:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:06:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:07:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:08:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:09:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:10:09 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-09-21 13:20:22 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-09-21 13:20:22 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.34 ----------
+
+2019-09-21 13:20:22 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2019-09-21 13:20:22 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2019-09-21 13:20:35 ERROR ApacheHttpClient.testConnection(202) - Error while checking the connection with the server 
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: Этот хост неизвестен (javarush.ru)
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:558)
+	at com.homework.plugin.client.ApacheHttpClient.testConnection(ApacheHttpClient.java:190)
+	at com.homework.plugin.client.RestApiClientFactory.<clinit>(RestApiClientFactory.java:19)
+	at com.homework.plugin.PluginTasksProjectComponent$1.projectOpened(PluginTasksProjectComponent.java:87)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$1.projectOpened(ProjectManagerImpl.java:94)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:102)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:446)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:406)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:395)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.lambda$createTopicHandler$1(MessageBusImpl.java:242)
+	at com.sun.proxy.$Proxy22.projectOpened(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectOpened(ProjectManagerImpl.java:809)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$null$5(ProjectManagerImpl.java:397)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransactionAndWait$2(TransactionGuardImpl.java:161)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:82)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:106)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:433)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:416)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:399)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:873)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:461)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:704)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:460)
+	at com.intellij.ide.IdeEventQueue.pumpEventsForHierarchy(IdeEventQueue.java:930)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:205)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runProcessWithProgressSynchronously(ApplicationImpl.java:566)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:459)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcessWithProgressSynchronously(ProgressManagerImpl.java:82)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:256)
+	at com.intellij.platform.PlatformProjectOpenProcessor.doOpenProject(PlatformProjectOpenProcessor.java:199)
+	at com.intellij.ide.RecentProjectsManagerBase.doOpenProject(RecentProjectsManagerBase.java:508)
+	at com.intellij.ide.RecentProjectsManagerBase.doReopenLastProject(RecentProjectsManagerBase.java:636)
+	at com.intellij.ide.RecentProjectsManagerBase.reopenLastProjectOnStart(RecentProjectsManagerBase.java:614)
+	at com.intellij.idea.IdeaApplication$IdeStarter.lambda$main$1(IdeaApplication.java:404)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:82)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:106)
+	at com.intellij.openapi.application.TransactionGuardImpl.submitTransaction(TransactionGuardImpl.java:115)
+	at com.intellij.openapi.application.TransactionGuard.submitTransaction(TransactionGuard.java:121)
+	at com.intellij.idea.IdeaApplication$IdeStarter.main(IdeaApplication.java:400)
+	at com.intellij.idea.IdeaApplication.lambda$null$3(IdeaApplication.java:154)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:192)
+	at com.intellij.idea.IdeaApplication.lambda$executeInitAppInEdt$5(IdeaApplication.java:154)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:433)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.net.UnknownHostException: Этот хост неизвестен (javarush.ru)
+	at java.base/java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:609)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:580)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.processPendingRequest(AbstractNIOConnPool.java:427)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.lease(AbstractNIOConnPool.java:276)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.requestConnection(PoolingNHttpClientConnectionManager.java:266)
+	at org.apache.http.impl.nio.client.AbstractClientExchangeHandler.requestConnection(AbstractClientExchangeHandler.java:363)
+	at org.apache.http.impl.nio.client.DefaultClientExchangeHandlerImpl.start(DefaultClientExchangeHandlerImpl.java:125)
+	at org.apache.http.impl.nio.client.InternalHttpAsyncClient.execute(InternalHttpAsyncClient.java:141)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:75)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:108)
+	at com.homework.plugin.client.ApacheHttpClient.testConnection(ApacheHttpClient.java:189)
+	... 68 more
+2019-09-21 13:20:35 INFO  ApacheHttpClient.testConnection(206) - result = false
+2019-09-21 13:20:35 ERROR HttpsURLConnectionClient.<init>(78) - Error while getting the proxy login from HttpConfigurable.
+2019-09-21 13:20:35 ERROR HttpsURLConnectionClient.getServerAvailabilityStatus(722) - Error while checking server availability.
+java.net.UnknownHostException: javarush.ru
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:285)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1181)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1075)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:163)
+	at com.homework.plugin.client.HttpsURLConnectionClient.getServerAvailabilityStatus(HttpsURLConnectionClient.java:706)
+	at com.homework.plugin.PluginTasksProjectComponent$1.projectOpened(PluginTasksProjectComponent.java:89)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$1.projectOpened(ProjectManagerImpl.java:94)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:102)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:446)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:406)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:395)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.lambda$createTopicHandler$1(MessageBusImpl.java:242)
+	at com.sun.proxy.$Proxy22.projectOpened(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectOpened(ProjectManagerImpl.java:809)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$null$5(ProjectManagerImpl.java:397)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransactionAndWait$2(TransactionGuardImpl.java:161)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:82)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:106)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:433)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:416)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:399)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:873)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:822)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:461)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:704)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:460)
+	at com.intellij.ide.IdeEventQueue.pumpEventsForHierarchy(IdeEventQueue.java:930)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:205)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runProcessWithProgressSynchronously(ApplicationImpl.java:566)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:459)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcessWithProgressSynchronously(ProgressManagerImpl.java:82)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:256)
+	at com.intellij.platform.PlatformProjectOpenProcessor.doOpenProject(PlatformProjectOpenProcessor.java:199)
+	at com.intellij.ide.RecentProjectsManagerBase.doOpenProject(RecentProjectsManagerBase.java:508)
+	at com.intellij.ide.RecentProjectsManagerBase.doReopenLastProject(RecentProjectsManagerBase.java:636)
+	at com.intellij.ide.RecentProjectsManagerBase.reopenLastProjectOnStart(RecentProjectsManagerBase.java:614)
+	at com.intellij.idea.IdeaApplication$IdeStarter.lambda$main$1(IdeaApplication.java:404)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:82)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:106)
+	at com.intellij.openapi.application.TransactionGuardImpl.submitTransaction(TransactionGuardImpl.java:115)
+	at com.intellij.openapi.application.TransactionGuard.submitTransaction(TransactionGuard.java:121)
+	at com.intellij.idea.IdeaApplication$IdeStarter.main(IdeaApplication.java:400)
+	at com.intellij.idea.IdeaApplication.lambda$null$3(IdeaApplication.java:154)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:192)
+	at com.intellij.idea.IdeaApplication.lambda$executeInitAppInEdt$5(IdeaApplication.java:154)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:433)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2019-09-21 13:20:43 ERROR HttpsURLConnectionClient.processExceptionGetWebResource(105) - (super) : Error while accessing the remote resource: https://javarush.ru/widget/pluginpages/com.javarush.task.task20.task2028.big05/condition	Be sure the network is accessible and try again. : java.net.UnknownHostException
+2019-09-21 13:20:43 ERROR ConditionPanel.run(102) - HTML-content loading error.
+java.lang.NullPointerException
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:113)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:2440)
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1084)
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1110)
+	at com.homework.plugin.panel.ConditionPanel$1.run(ConditionPanel.java:82)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$9(PlatformImpl.java:418)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:417)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:175)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-09-21 21:18:31 INFO  HttpsURLConnectionClient.getWebResourceAsStream(635) - responseCode = 200
+2019-09-21 21:18:31 INFO  HttpsURLConnectionClient.refreshUserInfo(820) - responseCode = 200
+2019-09-21 21:18:31 INFO  HttpsURLConnectionClient.refreshUserInfo(838) - User information received.
+2019-09-21 21:18:31 INFO  HttpsURLConnectionClient.getTask(595) - responseCode = 200
+2019-09-21 21:18:37 INFO  HttpsURLConnectionClient.manualComplete(34) - responseCode = 200
+2019-09-21 21:18:40 INFO  HttpsURLConnectionClient.getWebResourceAsStream(635) - responseCode = 200
+2019-09-21 21:18:40 INFO  HttpsURLConnectionClient.getFilteredTasks(253) - responseCode = 200
+2019-09-21 21:18:48 INFO  HttpsURLConnectionClient.getTaskTemplateInfo(279) - responseCode = 200
+2019-09-21 21:18:49 INFO  HttpsURLConnectionClient.getWebResourceAsStream(635) - responseCode = 200
+2019-09-22 10:39:14 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-09-22 10:39:14 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.34 ----------
+
+2019-09-22 10:39:14 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2019-09-22 10:39:14 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2019-09-22 10:39:16 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2019-09-22 10:39:16 INFO  ApacheHttpClient.testConnection(206) - result = true
+2019-09-22 10:39:18 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(583) - Waiting for server response.
+2019-09-22 10:39:18 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2019-09-22 10:39:18 INFO  ApacheHttpClient.refreshUserInfo(297) - User information received.
+2019-09-22 10:39:18 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-09-22 10:39:18 INFO  AbstractRestApiClient.startService(71) - EventsService started.
