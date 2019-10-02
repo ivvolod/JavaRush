@@ -276,7 +276,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_191" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task32.task3213.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task32.task3204.Solution" />
       <module name="4.JavaCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -368,7 +368,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
           <line>41</line>
-          <properties class="com.javarush.task.task20.task2018.Solution" method="main">
+          <properties class="com.javarush.task.task20.task2018.Solution">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
@@ -376,7 +376,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1326/Solution.java</url>
           <line>12</line>
-          <properties class="com.javarush.task.task13.task1326.Solution" method="main">
+          <properties class="com.javarush.task.task13.task1326.Solution">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="16" />
@@ -384,7 +384,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3210/Solution.java</url>
           <line>11</line>
-          <properties class="com.javarush.task.task32.task3210.Solution" method="main">
+          <properties class="com.javarush.task.task32.task3210.Solution">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="22" />
