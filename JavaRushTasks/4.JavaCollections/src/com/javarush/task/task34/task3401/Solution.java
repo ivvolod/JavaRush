@@ -14,6 +14,6 @@ public class Solution {
     }
 
     public int fibonacci(int n) {
-        return (n < 2)? 1 : fibonacci(n-2) + fibonacci(n-1);
+        return (n <= 1) ? Math.max(n,0) : fibonacci(n-1) + fibonacci(n-2);
     }
 }

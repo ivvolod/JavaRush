@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Space">
+  <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -288,16 +290,16 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_191" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3307.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3401.Solution" />
       <module name="4.JavaCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Space" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_191" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2515.Space" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3401.Solution" />
       <module name="4.JavaCollections" />
       <extension name="coverage">
         <pattern>
@@ -335,7 +337,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Space" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
