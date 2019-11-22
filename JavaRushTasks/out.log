@@ -31464,3 +31464,34 @@ java.lang.NullPointerException
 2019-11-22 07:51:29 INFO  ApacheHttpClient.startGA(35) - GAService started.
 2019-11-22 07:51:29 INFO  AbstractRestApiClient.startService(71) - EventsService started.
 2019-11-22 07:51:33 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 07:52:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:53:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:54:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:55:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:56:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:57:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:58:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 07:59:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:00:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:01:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:02:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:03:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:04:16 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 08:04:16 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 08:04:16 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-11-22 08:04:18 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-11-22 08:04:18 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-11-22 08:04:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:05:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:05:56 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 08:05:56 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-11-22 08:06:00 INFO  ApacheHttpClient.getTaskTemplateInfo(339) - responseCode = 200
+2019-11-22 08:06:01 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 08:06:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:07:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-11-22 08:08:26 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 08:08:27 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-11-22 08:08:27 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-11-22 08:08:28 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-11-22 08:08:28 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-11-22 08:08:29 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
