@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Test/Task3403Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -24,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -55,8 +59,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="D:/jackson-core-2.10.0.jar!/" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -65,14 +73,21 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3105\ resourse" />
-      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3113\Test\Test_1" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Test" />
+      <recent name="com.javarush.task.task34.task3403" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3113" />
       <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3102" />
       <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3105\ resourse" />
+      <recent name="D:\Уроки\JavaRushTasks\JavaRushTasks\4.JavaCollections\src\com\javarush\task\task31\task3113\Test\Test_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -87,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Task3403Test">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -289,7 +304,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_191" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3402.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3403.Solution" />
       <module name="4.JavaCollections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -318,6 +333,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task3403Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4.JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Task3403Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -336,6 +367,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task3403Test" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -401,7 +433,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
           <line>41</line>
-          <properties class="com.javarush.task.task20.task2018.Solution">
+          <properties class="com.javarush.task.task20.task2018.Solution" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="7" />
@@ -409,7 +441,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1326/Solution.java</url>
           <line>12</line>
-          <properties class="com.javarush.task.task13.task1326.Solution">
+          <properties class="com.javarush.task.task13.task1326.Solution" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="16" />
@@ -417,7 +449,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3210/Solution.java</url>
           <line>11</line>
-          <properties class="com.javarush.task.task32.task3210.Solution">
+          <properties class="com.javarush.task.task32.task3210.Solution" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="22" />
@@ -426,6 +458,11 @@
           <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java</url>
           <line>80</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3403/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
